@@ -24,4 +24,4 @@ This file is not affiliated with VASP. Feel free to use and modify, but do so at
 
 References
 -------
-1. E. T. McClure, M. R. Ball, W. Windl‡, and P. M. Woodward, Cs<sub>2</sub>AgBiX<sub>6</sub> (X = Br, Cl): New Visible Light Absorbing, Lead-Free Halide Perovskite Semiconductors, *Chem. Mater.*, **28**, 1348–1354 (2016) doi: [10.1021/acsenergylett.6b00471](http://pubs.acs.org/doi/abs/10.1021/acsenergylett.6b00471)
+1. E. T. McClure, M. R. Ball, W. Windl‡, and P. M. Woodward, Cs<sub>2</sub>AgBiX<sub>6</sub> (X = Br, Cl): New Visible Light Absorbing, Lead-Free Halide Perovskite Semiconductors, *Chem. Mater.*, **28**, 1348–1354 (2016) doi: [10.1021/acs.chemmater.5b04231](http://pubs.acs.org/doi/abs/10.1021/acs.chemmater.5b04231)
